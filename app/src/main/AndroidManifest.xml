@@ -11,6 +11,9 @@
         android:theme="@style/Theme.Swoosh">
         <activity
             android:name=".LeagueActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,9 +21,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".WelcomeActivity"
-            android:exported="true" />
 
         <meta-data
             android:name="preloaded_fonts"
