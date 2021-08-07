@@ -1,4 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.Swoosh" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+    <style name="Theme.Swoosh.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Swoosh.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Swoosh.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

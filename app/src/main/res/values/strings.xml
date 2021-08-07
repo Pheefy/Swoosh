@@ -11,4 +11,16 @@
     <string name="get_started">GET STARTED</string>
     <string name="swoosh_logo">Swoosh logo</string>
     <string name="background_image">background image</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="finish">FINISH</string>
+    <string name="baller">Baller</string>
+    <string name="begginer">Begginer</string>
 </resources>
