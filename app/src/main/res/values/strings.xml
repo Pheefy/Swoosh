@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Swoosh</string>
+    <string name="desired_leage">Desired Leage</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="co_ed">Co-Ed</string>
+    <string name="next">Next</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_going_all_out">ON GOING ALL OUT</string>
+    <string name="find_a_team_in_your_city_and_dominate_the_league">Find a team in your city and dominate the league</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="swoosh_logo">Swoosh logo</string>
+    <string name="background_image">background image</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="finish">FINISH</string>
+    <string name="baller">Baller</string>
+    <string name="begginer">Begginer</string>
 </resources>
